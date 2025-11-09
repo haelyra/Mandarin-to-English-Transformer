@@ -1,0 +1,116 @@
+Version 1:
+Epoch 1/10
+Train:   0%|          | 0/672 [00:00<?, ?it/s]/Users/haley/Library/Python/3.9/lib/python/site-packages/torch/nn/functional.py:6041: UserWarning: Support for mismatched key_padding_mask and attn_mask is deprecated. Use same type for both instead.
+  warnings.warn(
+                                                        
+  Train loss: 7.4783, ppl: 1769.15
+  Valid loss: 6.4398, ppl: 626.26
+
+Epoch 2/10
+                                                        
+  Train loss: 6.4790, ppl: 651.32
+  Valid loss: 6.0415, ppl: 420.53
+
+Epoch 3/10
+                                                        
+  Train loss: 6.1248, ppl: 457.04
+  Valid loss: 5.8151, ppl: 335.33
+
+Epoch 4/10
+                                                        
+  Train loss: 5.8684, ppl: 353.68
+  Valid loss: 5.6348, ppl: 280.01
+
+Epoch 5/10
+                                                        
+  Train loss: 5.6538, ppl: 285.38
+  Valid loss: 5.5036, ppl: 245.57
+
+Epoch 6/10
+                                                        
+  Train loss: 5.4670, ppl: 236.76
+  Valid loss: 5.3860, ppl: 218.32
+
+Epoch 7/10
+                                                        
+  Train loss: 5.2943, ppl: 199.20
+  Valid loss: 5.2898, ppl: 198.29
+
+Epoch 8/10
+                                                        
+  Train loss: 5.1317, ppl: 169.30
+  Valid loss: 5.2023, ppl: 181.68
+
+Epoch 9/10
+                                                        
+  Train loss: 4.9759, ppl: 144.88
+  Valid loss: 5.1201, ppl: 167.36
+
+Epoch 10/10
+                                                        
+  Train loss: 4.8257, ppl: 124.67
+  Valid loss: 5.0514, ppl: 156.24
+
+
+Version 2:
+Epoch 1/10
+Train:   0%|          | 0/672 [00:00<?, ?it/s]/Users/haley/Library/Python/3.9/lib/python/site-packages/torch/nn/functional.py:6041: UserWarning: Support for mismatched key_padding_mask and attn_mask is deprecated. Use same type for both instead.
+  warnings.warn(
+                                                        
+  Train loss: 6.5150, ppl: 675.21
+  Valid loss: 5.8063, ppl: 332.37
+  (new best; saving checkpoint)
+
+Epoch 2/10
+                                                        
+  Train loss: 5.6482, ppl: 283.77
+  Valid loss: 5.3284, ppl: 206.11
+  (new best; saving checkpoint)
+
+Epoch 3/10
+                                                        
+  Train loss: 5.2163, ppl: 184.25
+  Valid loss: 4.9589, ppl: 142.44
+  (new best; saving checkpoint)
+
+Epoch 4/10
+                                                        
+  Train loss: 4.8532, ppl: 128.15
+  Valid loss: 4.6935, ppl: 109.23
+  (new best; saving checkpoint)
+
+Epoch 5/10
+                                                        
+  Train loss: 4.5366, ppl: 93.37
+  Valid loss: 4.4503, ppl: 85.65
+  (new best; saving checkpoint)
+
+Epoch 6/10
+                                                        
+  Train loss: 4.2419, ppl: 69.54
+  Valid loss: 4.2341, ppl: 69.00
+  (new best; saving checkpoint)
+
+Epoch 7/10
+                                                        
+  Train loss: 3.9611, ppl: 52.51
+  Valid loss: 4.0495, ppl: 57.37
+  (new best; saving checkpoint)
+
+Epoch 8/10
+                                                        
+  Train loss: 3.7035, ppl: 40.59
+  Valid loss: 3.9383, ppl: 51.33
+  (new best; saving checkpoint)
+
+Epoch 9/10
+                                                        
+  Train loss: 3.4788, ppl: 32.42
+  Valid loss: 3.7753, ppl: 43.61
+  (new best; saving checkpoint)
+
+Epoch 10/10
+                                                        
+  Train loss: 3.2773, ppl: 26.50
+  Valid loss: 3.6952, ppl: 40.26
+  (new best; saving checkpoint)

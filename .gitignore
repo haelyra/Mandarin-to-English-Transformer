@@ -1,0 +1,15 @@
+*.jsonl
+*.tsv
+
+__pycache__/
+*.pyc
+*.pyo
+*.pth
+*.pt
+*.pt~
+checkpoints/
+*.ipynb_checkpoints
+.DS_Store
+transformer_zh_en_notebook.pt
+.env
+*.log
