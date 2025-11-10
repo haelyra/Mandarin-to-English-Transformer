@@ -114,3 +114,68 @@ Epoch 10/10
   Train loss: 3.2773, ppl: 26.50
   Valid loss: 3.6952, ppl: 40.26
   (new best; saving checkpoint)
+
+
+  Version 3: (46 minute training time)
+
+  Epoch 1/10
+Train:   0%|          | 0/1344 [00:00<?, ?it/s]/Users/haley/Library/Python/3.9/lib/python/site-packages/torch/nn/functional.py:6041: UserWarning: Support for mismatched key_padding_mask and attn_mask is deprecated. Use same type for both instead.
+  warnings.warn(
+                                                          
+  Train loss: 6.1906, ppl: 488.12
+  Valid loss: 5.4328, ppl: 228.79
+  (new best; saving checkpoint)
+
+Epoch 2/10
+                                                          
+  Train loss: 5.2174, ppl: 184.45
+  Valid loss: 4.8003, ppl: 121.55
+  (new best; saving checkpoint)
+
+Epoch 3/10
+                                                          
+  Train loss: 4.6611, ppl: 105.75
+  Valid loss: 4.3287, ppl: 75.84
+  (new best; saving checkpoint)
+
+Epoch 4/10
+                                                          
+  Train loss: 4.1833, ppl: 65.58
+  Valid loss: 3.9113, ppl: 49.97
+  (new best; saving checkpoint)
+
+Epoch 5/10
+                                                          
+  Train loss: 3.7918, ppl: 44.34
+  Valid loss: 3.6503, ppl: 38.49
+  (new best; saving checkpoint)
+
+Epoch 6/10
+                                                          
+  Train loss: 3.4855, ppl: 32.64
+  Valid loss: 3.4117, ppl: 30.32
+  (new best; saving checkpoint)
+
+Epoch 7/10
+                                                          
+  Train loss: 3.2375, ppl: 25.47
+  Valid loss: 3.2636, ppl: 26.14
+  (new best; saving checkpoint)
+
+Epoch 8/10
+                                                          
+  Train loss: 3.0385, ppl: 20.87
+  Valid loss: 3.1465, ppl: 23.25
+  (new best; saving checkpoint)
+
+Epoch 9/10
+                                                          
+  Train loss: 2.8738, ppl: 17.70
+  Valid loss: 3.0714, ppl: 21.57
+  (new best; saving checkpoint)
+
+Epoch 10/10
+                                                          
+  Train loss: 2.7353, ppl: 15.41
+  Valid loss: 3.0134, ppl: 20.36
+  (new best; saving checkpoint)
