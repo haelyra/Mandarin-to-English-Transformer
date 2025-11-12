@@ -22,11 +22,11 @@ Uses the [ShareGPT Chinese-English dataset](https://huggingface.co/datasets/shar
 - Max sequence length: 64
 
 ## Results
-- **12.2M parameters** trained from scratch
-- **Final perplexity: 26.50** (train), **40.26** (validation)
-- **Source vocabulary: 13,940** tokens
-- **Target vocabulary: 18,353** tokens
-- Trained on **21,500** parallel sentence pairs
-- Achieved **~96% reduction** in perplexity over 10 epochs (675 → 26.5)
+- **15.4M parameters** trained from scratch
+- **Final perplexity: 15.41** (train), **20.36** (validation)
+- **Source vocabulary: 19,098** tokens
+- **Target vocabulary: 25,515** tokens
+- Trained on **43,000** parallel sentence pairs
+- Achieved **~96.8% reduction** in train perplexity over 10 epochs (488.12 → 15.41)
 
 (Supports CPU and GPU)
