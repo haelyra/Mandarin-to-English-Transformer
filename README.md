@@ -1,7 +1,8 @@
 # Mandarin-English Neural Machine Translation
 
-Haley Chen. (2025). haelyra/Mandarin-to-English-Transformer: v1.1 (v1.1). Zenodo.
-https://doi.org/10.5281/zenodo.18057192
+Haley Chen. (2025). haelyra/Mandarin-to-English-Transformer: 
+
+v1.1 (v1.1). Zenodo. https://doi.org/10.5281/zenodo.18057192
 
 A PyTorch implementation of a Transformer-based neural machine translation program for translating between Mandarin and English. This project implements the encoder/decoder architecture from "Attention Is All You Need" (Vaswani et al., 2017) from scratch.
 
